@@ -1,0 +1,76 @@
+
+h2 {
+    font-size: 200px;
+    color: black;
+    font-family: 'Allura';
+  }
+  
+  .container {
+    padding: 0;
+    background-color: #222;
+    color: white;
+  }
+  
+ 
+  
+  .incoming-form {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    padding-left: 10%;
+    padding-right: 12%;
+  }
+  
+  .incoming-form h3 {
+    text-align: center;
+    font-family: 'Julius Sans One';
+  }
+  
+  hr {
+    border-color: rgba(148, 143, 143, 0.747);
+    width: 80%;
+  }
+  
+  .col-md-12 {
+    text-align: center;
+    font-family: 'Julius Sans One';
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    font-size: 50px;
+  }
+  
+  .col-md-4 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    height: 21rem;
+  }
+  
+  .col-md-8 {
+    padding: 30px;
+}
+  .bestVotes{
+    border: 1px solid black;
+    padding: 2%;
+    color: white;
+    border-radius: 20px;
+    font-family: 'Julius Sans One';
+}
+
+.bestVotes p{
+    color: black;
+}
+
+.bestVotes h3{
+    font-style: italic;
+}
+.bestquote{
+    background-color: lawngreen;
+    padding: 2%;
+}
+
+
+  
+  @media (max-width: 551px){
+      .head h2 {
+      font-size: 150px;
+    }
+  }
