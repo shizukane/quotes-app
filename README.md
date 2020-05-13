@@ -10,7 +10,7 @@ this is an application which allows the user to add their quote a
 nd also see others users quotes.Users are able to like or dislike a quote too
 # project description link
 
- http://localhost:4200/ **
+https://shizukane.github.io/Quotesapp/
 
 ## Development server
 
