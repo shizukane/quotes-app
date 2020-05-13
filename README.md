@@ -1,7 +1,12 @@
 # Quotesapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+# Author
 
+Darolle Shizukane
+# description
+
+this is an application which allows the user to add their quote and also see others users quotes.Users are able to like or dislike a quote too
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
