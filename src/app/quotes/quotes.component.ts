@@ -32,7 +32,7 @@ export class QuotesComponent implements OnInit {
 
   deleteQuote(deleteit: any, index: any) {
     if (deleteit) {
-      let toDelete = confirm(`Are you sure you want to delete ${this.quotes[index].name}?`)
+      let toDelete = confirm(`Are you really sure you want to delete ${this.quotes[index].name}?`)
 
       if (toDelete){
         this.quotes.splice(index,)
